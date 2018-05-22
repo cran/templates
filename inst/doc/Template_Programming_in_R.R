@@ -23,7 +23,7 @@ collapseInParan <- function(x) {
 }
 
 tmplUpdate(
-  sqlTemplate, 
+  sqlTemplate,
   ids = 1:10
 )
 
